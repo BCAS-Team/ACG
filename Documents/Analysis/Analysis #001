@@ -1,0 +1,14 @@
+We know the school uses Securus to block access to the internet, to act as a supervision tool, which can view screens, and can also report all the sites we go to and flag.
+
+We are blessed with some links 
+
+We also know that the school uses NetSupport Client. Now, this i saw as a browser extension so that it could be possible
+
+We also know that the school uses Cisco Umbrella
+
+School uses WatchGuard, Securus, Cisco Umbrella, NetSupport Client.
+
+ I've also noticed that school has completely blocked any installers (executables), pre-compiled/ Portable executables seem to be allowed with minor patches.
+
+My first order of action will most likely be to set up a pre-compiled executable that has a few diagnostic tools like testing GPU support (drivers, DirectX, OpenGL, Vulkan, etc).
+I'd also like to set up a mirror of a few websites running on GitHub Static, to access what would normally be blocked by WireGuard.
